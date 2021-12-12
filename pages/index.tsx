@@ -55,7 +55,7 @@ const Footer = styled.div`
   width: 100%;
   height: 50px;
   display: flex;
-  background-color: black;
+  background-color: #23283b;
   justify-content: center;
   align-items: center;
 `;
