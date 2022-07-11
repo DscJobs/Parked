@@ -24,7 +24,7 @@ export default function Home() {
         <FooterText>
          © 2021 - 2022 DscJobs  -{" "}
           <Website href="https://dscjobs.org">dscjobs.org</Website> -{" "}
-          <Twitter href="https://twitter.com/dsc_jobs">
+          <Twitter href="https://twitter.com/jobcord">
             @dsc_jobs
           </Twitter>
         </FooterText>
